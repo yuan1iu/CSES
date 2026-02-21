@@ -1,0 +1,9 @@
+# Compiled binaries
+*.out
+a.out
+1069
+1131
+test
+
+# macOS
+.DS_Store
